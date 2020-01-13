@@ -1,0 +1,17 @@
+* Créer une application symfony afin de :
+1. Générer l'entité Student contenant les attributs:
+CNE clé primaire qui permet d'identifier un étudiant spécifique (il doit être sur 10 caractères)
+Nom nom complet de l'étudiant (doit contenir le prénom suivi du nom de famille)
+Date de naissance (ne pas autoriser les étudiants dont l'age est supérieur à 30 ou inférieur à 18 ans)
+Adresse contenant l'adresse de l'étudiant
+
+2. Générer le schéma de la BD
+3. Générer le contrôleur ainsi que les templates
+permettant la création, la suppression, la mise à jour 
+et l'affichage de la liste des étudiants
+4. Ajouter les règles de validation pour l'entité
+5. Personnaliser les templates afin d'afficher les erreurs
+générées suite à la validation
+6. Ajouter le volet sécurité à l'application afin de permettre
+aux utilisateurs test1, test2, test3 de se connecter 
+à l'application avec un mot de passe 'password' par défaut
