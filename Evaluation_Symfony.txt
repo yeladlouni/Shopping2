@@ -15,3 +15,9 @@ générées suite à la validation
 6. Ajouter le volet sécurité à l'application afin de permettre
 aux utilisateurs test1, test2, test3 de se connecter 
 à l'application avec un mot de passe 'password' par défaut
+
+
+Une fois l'application développée, envoyer 
+le lien sur github à l'email:
+yeladlouni@gmail.com
+
