@@ -18,6 +18,6 @@ aux utilisateurs test1, test2, test3 de se connecter
 
 
 Une fois l'application développée, envoyer 
-le lien sur github à l'email:
+le lien sur github à l'email avant le 14/01/2020 à 9h (sinon 0)
 yeladlouni@gmail.com
 
